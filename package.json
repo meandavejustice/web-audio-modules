@@ -1,0 +1,26 @@
+{
+  "name": "web-audio-modules",
+  "version": "1.0.0",
+  "description": "a list of modules that are useful when building applications with the web audio api.",
+  "main": "build-index.js",
+  "dependencies": {
+    "marked": "^0.3.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "move-style": "cp node_modules/style.css/style.css .",
+    "build": "node build-index.js",
+    "deploy": "gh-pages-deploy"
+  },
+  "gh-pages-deploy": {
+    "prep": [
+      "move-style",
+      "build"
+    ]
+  },
+  "author": "meandave",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages-deploy": "^0.3.0"
+  }
+}
