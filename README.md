@@ -29,7 +29,6 @@ a list of modules that are useful when building applications with the web audio 
 
 ## Effects
 * [detect-pitch](https://www.npmjs.org/package/detect-pitch)
-* [paulstretch](https://www.npmjs.org/package/paulstretch)
 
 ## APIs
 * [free-music-archive](https://www.npmjs.org/package/free-music-archive)
