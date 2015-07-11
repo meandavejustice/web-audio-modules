@@ -13,6 +13,7 @@ a list of modules that are useful when building applications with the web audio 
 * [soundcloud-resolve](https://www.npmjs.org/package/soundcloud-resolve)
 
 ## Timing
+* [WAAClock](https://www.npmjs.org/package/WAAClock)
 * [audio-clock](https://www.npmjs.org/package/audio-clock) Keep time in a webworker
 
 ## Data
@@ -25,9 +26,11 @@ a list of modules that are useful when building applications with the web audio 
 * [sequencer-component](https://github.com/meandavejustice/sequencer-component) Web Audio Sequencer react component.
 * [audiosource](https://www.npmjs.org/package/audiosource) A nice interface for dealing with audio samples/files and their playback.
 * [audio-context](https://www.npmjs.org/package/audio-context) Shim for creating and audioContext
+* [web-audio-api(node)](https://www.npmjs.org/package/web-audio-api)
 
 ## Effects
 * [detect-pitch](https://www.npmjs.org/package/detect-pitch)
+* [paulstretch](https://www.npmjs.org/package/paulstretch)
 
 ## APIs
 * [free-music-archive](https://www.npmjs.org/package/free-music-archive)
@@ -45,3 +48,6 @@ a list of modules that are useful when building applications with the web audio 
 
 ## education
 * [web-audio-school](https://www.npmjs.org/package/web-audio-school)
+
+## Pulse-code modulation
+* [pcm-boilerplate](https://www.npmjs.org/package/pcm-boilerplate)
