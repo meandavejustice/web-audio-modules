@@ -13,7 +13,6 @@ a list of modules that are useful when building applications with the web audio 
 * [soundcloud-resolve](https://www.npmjs.org/package/soundcloud-resolve)
 
 ## Timing
-* [WAAClock](https://www.npmjs.org/package/WAAClock)
 * [audio-clock](https://www.npmjs.org/package/audio-clock) Keep time in a webworker
 
 ## Data
