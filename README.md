@@ -2,9 +2,10 @@
 
 a list of modules that are useful when building applications with the web audio api.
 
-## Visualizations
+## Visualizations / UI
 * [audio-fft](https://www.npmjs.org/package/audio-fft) module/class for creating visualizations from audio data(time/frequency)
 * [draw-wave](https://www.npmjs.org/package/draw-wave)
+* [wave-edit](https://www.npmjs.org/package/wave-edit)
 * [soundcloud-waveform-parser](https://www.npmjs.org/package/soundcloud-waveform-parser)
 * [soundcloud-waveform](https://www.npmjs.org/package/soundcloud-waveform)
 
